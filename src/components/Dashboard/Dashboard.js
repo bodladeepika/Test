@@ -33,27 +33,8 @@ export default () => {
             <p>{faker.lorem.paragraph()}</p>
             <p>{faker.lorem.paragraph()}</p>
             <p>{faker.lorem.paragraph()}</p>
-            <p>{faker.lorem.paragraph()}</p>
-            <p>{faker.lorem.paragraph()}</p>
-            <p>{faker.lorem.paragraph()}</p>
-            <p>{faker.lorem.paragraph()}</p>
-            <p>{faker.lorem.paragraph()}</p>
-            <p>{faker.lorem.paragraph()}</p>
-            <p>{faker.lorem.paragraph()}</p>
-            <p>{faker.lorem.paragraph()}</p>
-            <p>{faker.lorem.paragraph()}</p>
-            <p>{faker.lorem.paragraph()}</p>
-            <p>{faker.lorem.paragraph()}</p>
-            <p>{faker.lorem.paragraph()}</p>
-            <p>{faker.lorem.paragraph()}</p>
-            <p>{faker.lorem.paragraph()}</p>
-            <p>{faker.lorem.paragraph()}</p>
-            <p>{faker.lorem.paragraph()}</p>
-            <p>{faker.lorem.paragraph()}</p>
-            <p>{faker.lorem.paragraph()}</p>
-            <p>{faker.lorem.paragraph()}</p>
-            <p>{faker.lorem.paragraph()}</p>
-            <p>{faker.lorem.paragraph()}</p>
+          
+            
             </div>
 
         </div>

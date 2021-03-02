@@ -27,5 +27,3 @@ it('has correclty rendered',()=>{
   expect(toJson(wrapped)).toMatchSnapshot()
 })
 
-
-
