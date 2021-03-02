@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`has correclty rendered 1`] = `
+<Fragment>
+  <div
+    className=""
+  >
+    <div
+      id="header"
+    >
+      <div
+        className="sticky-wrapper"
+      >
+        <_default />
+      </div>
+    </div>
+  </div>
+</Fragment>
+`;

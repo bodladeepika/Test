@@ -1,0 +1,41 @@
+.sidenav {
+  height: 100%;  
+  
+  position: fixed; 
+  z-index: 1; 
+  top: 0; 
+  left: 0;
+   background-color:#232323; 
+   transition: .5s ease; 
+   overflow-x: hidden; 
+  flex-direction: column; 
+  align-items: left;
+  padding:0.5rem
+}
+
+
+.menu-bar {
+  margin-left:0.5rem;
+  cursor: pointer;
+}
+
+.sidebar-category > .tags {
+  width: 100%;
+  display:flex;
+  cursor: pointer;
+}
+
+.tags {
+      line-height: 2.5rem;
+      cursor: pointer;
+      padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+      font-family: HelveticaNeue;
+      font-size: 1.5rem;
+      font-weight: 500;
+      min-width: 5rem;
+      color:white
+}
+a {
+  text-decoration:none !important;
+}
+ 
